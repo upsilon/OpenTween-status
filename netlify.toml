@@ -2,10 +2,10 @@
 publish = 'public'
 
 [[headers]]
-for = '*/*.txt'
+for = '*.txt'
 
   [headers.values]
-  Content-Type = 'text/plain; charset=UTF-8'
+  Content-Type = 'text/plain; charset=utf-8'
 
 [[redirects]]
 from = '/'
