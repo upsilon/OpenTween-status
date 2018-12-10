@@ -10,4 +10,5 @@ for = '*/*.txt'
 [[redirects]]
 from = '/'
 to = 'https://osdn.net/projects/opentween/'
+status = 303
 force = true
